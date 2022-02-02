@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Monstrera",
+      "image": "https://mobileimages.lowes.com/productimages/0388dd42-aea2-4cbb-9f21-807231e79781/17043702.jpg?size=pdhi",
+      "price": "26.00",
+      "id": 8
     }
   ]
 }
